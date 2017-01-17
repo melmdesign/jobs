@@ -6,7 +6,7 @@ We do things differently. We are innovative, intuitive and inclusive.
 
 We are the leading mobile point-of-sale (mPOS) company in Europe. Our company vision is to become the first ever global card acceptance brand. Today tens of thousands of merchants accept card payments with SumUp in 15 countries including Germany, the UK and Brazil.
 
-Working as Designer for SumUp could be interesting for you because we cover many different platforms that we constantly try to improve: We have physical hardware (made right here in Berlin), localised websites, mobile apps on iOS and Android, third-party integrations and a merchant-facing web app.
+Working as Designer for SumUp could be interesting for you because we cover many different platforms that we constantly try to improve: We have physical hardware (made right here in Berlin), localized websites, mobile apps on iOS and Android, third-party integrations and a merchant-facing web app.
 
 Help us bring card acceptance to the masses!
 
@@ -22,7 +22,7 @@ To us, Product Designer means you are comfortable with designing interfaces from
 * You think about the entire experience of users rather than a single screen in isolation
 * You know how to give critical feedback, and create consensus
 * You care about delivering a consistent experience and visual language across all platforms
-* By validating your assumtions with proper user research and usability testing, you make sure you're adressing the right problems the right way
+* By validating your assumptions with proper user research and usability testing, you make sure you're addressing the right problems the right way
 * You're not only interested in input from developers, marketers and users, but you're able to ask the right questions, give feedback and critique your solutions.
 * You like working on a product from start to end and iterate it until an excellent and solid feature can be shipped.
 * You have a strong portfolio that demonstrates a well-structured, iterative design process for turning an idea into a creative and unique design
