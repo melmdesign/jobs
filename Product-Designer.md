@@ -18,17 +18,14 @@ To us, Product Designer means you are comfortable with designing interfaces from
 
 * You not only know how to make things beautiful but also know how to speak the language of the user
 * You have a strong portfolio that demonstrates your process of turning ideas into a creative and unique design
-* You're an excellent problem-solver, communicator and love to drive design
-* You're passionate about the whole design process, from the technical architecture to user testing and the UI of the final Interface
+* You're passionate about the whole design process, from the technical architecture to the final Interface
 * You think about the entire experience of users rather than a single screen in isolation
 * You know how to give critical feedback, and create consensus
-* You care about delivering a consistent experience and visual language across all the platforms
-* 
-
-
-* Conduct a well-structured, iterative design process, including low-fidelity prototyping, interactive mockups, and finally provide fine-tuning for the interaction when the design makes it to its final medium. Take the lead in validating your assumptions with proper user research and usability testing, to make sure we’re addressing the right problems the right way.
-* Be able to code your own designs, using semantic HTML5 and any CSS pre-processor – we use SCSS packed with Bourbon mixins, but we’re always open for new fancy things.
-* Team up with our marketing team who handles websites, landing pages and support centers, to make sure all our customer-facing design is consistent across everything we do at SumUp.
+* You care about delivering a consistent experience and visual language across all platforms
+* By validating your assumtions with proper user research and usability testing, you make sure you're adressing the right problems the right way
+* You're not only interested in input from developers, marketers and users, but you're able to ask the right questions, give feedback and critique your solutions.
+* You like working on a product from start to end and iterate it until an excellent and solid feature can be shipped.
+* You have a strong portfolio that demonstrates a well-structured, iterative design process for turning an idea into a creative and unique design
 
 Please note: these aren't all hard requirements, but should give you a taste of the kind of skills you should have or be willing to learn on the job.
 
