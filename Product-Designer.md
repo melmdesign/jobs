@@ -15,7 +15,7 @@ To us, Product Designer means you are comfortable with designing interfaces from
 ### You'll fit in perfectly to our team if:
 
 * You not only know how to make things beautiful but also know how to speak the language of the user.
-* You're passionate about the complete design process, from the technical architecture to the final Interface.
+* You're passionate about the complete design process, from the technical architecture to the final interface.
 * You think about the entire experience of users rather than a single screen in isolation.
 * You care about delivering a consistent experience and visual language across all platforms.
 * You're not only interested in input from developers, marketers and users, but you're able to ask the right questions, give feedback and critique your own solutions.
