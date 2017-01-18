@@ -5,10 +5,9 @@ We do things differently. We are innovative, intuitive and inclusive.
 
 We are the leading mobile point-of-sale (mPOS) company in Europe. Our company vision is to become the first ever global card acceptance brand. Today tens of thousands of merchants accept card payments with SumUp in 15 countries including Germany, the UK and Brazil.
 
-Working as Product Designer for SumUp could be interesting for you because we cover many different platforms that we constantly try to improve: We have physical hardware (made right here in Berlin), localized websites, mobile apps on iOS and Android, third-party integrations and a merchant-facing web app.
+Working as a Product Designer for SumUp could be interesting for you because we cover many different platforms that we constantly try to improve: We have physical hardware (made right here in Berlin), localized websites, mobile apps on iOS and Android, third-party integrations and a merchant-facing web app.
 
 Help us bring card acceptance to the masses!
-
 
 ## What we're looking for
 To us, Product Designer means you are comfortable with designing interfaces from both UX and UI perspective. As part of the design team you will be in charge of turning new features for our mobile and web applications from concept into reality and continuously improve the interface. You'll shape some of the core experiences of our merchants: from their first impression on our website, to the web-based features that make them loyal to our platform.
