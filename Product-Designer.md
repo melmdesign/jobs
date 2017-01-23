@@ -43,3 +43,5 @@ Please note: these aren't all hard requirements, but should give you a taste of 
 * All the startup swag you expect: kicker table, table tennis, beer in the fridge, and more!
 * Our office has a strong sense of community; we get together regularly for brunches, cocktail nights, soccer, and yoga.
 * Our team comes from 24 different countries creating a fun, international environment.
+
+PInclude a cover letter and a link to your portfolio / the favorite project you made and the process behind it
