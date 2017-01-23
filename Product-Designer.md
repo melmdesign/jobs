@@ -38,4 +38,4 @@ To us, Product Designer means you are comfortable with designing interfaces from
 * Our office has a strong sense of community; we get together regularly for brunches, cocktail nights, soccer, and yoga.
 * Our team comes from 24 different countries creating a fun, international environment.
 
-PInclude a cover letter and a link to your portfolio / the favorite project you made and the process behind it
+We'd be happy to receive your application including your resume, cover letter and portfolio that demonstrates your experience.
